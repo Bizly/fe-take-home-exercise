@@ -13,8 +13,8 @@ We can't wait to see what you have to show us!
 We want to build a [Markdown](https://daringfireball.net/projects/markdown/) editor that follows the [CommonMark](https://commonmark.org/) specifications. The CommonMark specification is quite extensive, so we identified a couple of key use cases that we would like to address for our users in our first iteration:
 
 1. Top 3 levels of [ATX headings](https://spec.commonmark.org/0.29/#atx-headings).
-1. Simple [paragraph] texts.
-1. Two flavors of [emphases](https://spec.commonmark.org/0.29/#emphasis-and-strong-emphasis).
+1. Simple [paragraph](https://spec.commonmark.org/0.29/#paragraphs) texts.
+1. Regular and strong [emphases](https://spec.commonmark.org/0.29/#emphasis-and-strong-emphasis) (only rules 1 - 12 apply).
 1. Single level unordered and ordered [lists](https://spec.commonmark.org/0.29/#lists) using only `-` and `1` characters, respectively.
 1. [Blockquotes](https://spec.commonmark.org/0.29/#block-quotes) containing plain text.
 
